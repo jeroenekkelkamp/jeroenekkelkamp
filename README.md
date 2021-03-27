@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning how to build full-stack appications w/ React.js && Firebase 
 - 🔭 I’m currently working on creating my online portfolio
 - :hourglass_flowing_sand: I'm about 76 years away from being a century old
+
+
+<a href="https://www.linkedin.com/in/jeroen-ekkelkamp-08b368bb/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My LinkedIn profile
+</a>
 <!--
 **jeroenekkelkamp/jeroenekkelkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
