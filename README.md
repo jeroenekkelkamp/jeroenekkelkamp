@@ -2,7 +2,7 @@
 
 
 - :mortar_board: I’m a computer science student at the university of applied sciences Leiden
-- 🌱 I’m currently learning how to build full-stack appications w/ React.js && Firebase 
+- 🌱 I’m currently learning how to create hyrid mobile apps w/ React-native
 - 🔭 I’m currently working on creating my online portfolio
 - :hourglass_flowing_sand: I'm about 76 years away from being a century old
 
